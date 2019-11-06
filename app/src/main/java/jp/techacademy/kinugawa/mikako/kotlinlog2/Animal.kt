@@ -1,6 +1,5 @@
 package jp.techacademy.kinugawa.mikako.kotlinlog2
 
-import android.util.Log
 
 abstract class Animal {
 
